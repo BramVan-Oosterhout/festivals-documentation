@@ -1,6 +1,7 @@
 ## Festivals-gateway endpoints
 
 | **Method** | _**Endpoint** | **Handler** |
+| --- | --- | --- |
 | GET | /health | GetHealth |
 | GET | /version | GetVersion |
 | GET | /info | GetInfo |
@@ -15,6 +16,7 @@
 ## festivals-fileserver endpoints
 
 | **Method** | _**Endpoint** | **Handler** |
+| --- | --- | --- |
 | GET | /version | GetVersion |
 | GET | /info | GetInfo |
 | GET | /health | GetHealth |
@@ -33,6 +35,7 @@
 ## festivals-database endpoints
 
 | **Method** | _**Endpoint** | **Handler** |
+| --- | --- | --- |
 | GET | /version | GetVersion |
 | GET | /info | GetInfo |
 | GET | /health | GetHealth |
@@ -43,6 +46,7 @@
 ## festivals-website endpoints
 
 | **Method** | _**Endpoint** | **Handler** |
+| --- | --- | --- |
 | GET | /version | GetVersion |
 | GET | /info | GetInfo |
 | GET | /health | GetHealth |
@@ -52,7 +56,9 @@
 | GET | /log/trace | GetTraceLog |
 
 ## festivals-server endpoints
+
 | **Method** | _**Endpoint** | **Handler** |
+| --- | --- | --- |
 | GET | /version | GetVersion |
 | GET | /info | GetInfo |
 | GET | /health | GetHealth |
@@ -146,6 +152,7 @@
 ## festivals-identity-server endpoints
 
 | **Method** | _**Endpoint** | **Handler** |
+| --- | --- | --- |
 | GET | /version | GetVersion |
 | GET | /info | GetInfo |
 | GET | /health | GetHealth |
