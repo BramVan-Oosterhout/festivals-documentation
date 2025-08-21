@@ -61,11 +61,11 @@ Following the high level architecture overview, shown in Figure 1: Architecture 
 
 * Mobile App (not in scope for the backend infrastructure)
 * Creator Tool (not in scope for the backend infrastructure)
-* [Gateway](https://github.com/Festivals-App/festivals-gateway/README.md)
-* FestivalsApp Server
-* Database
-* File Server
-* Identity Server
+* [Gateway](https://github.com/Festivals-App/festivals-gateway/blob/main/README.md)
+* [FestivalsApp Server](https://github.com/Festivals-App/festivals-server/blob/main/README.md)
+* [Database](https://github.com/Festivals-App/festivals-database/blob/main/README.md)
+* [File Server](https://github.com/Festivals-App/festivals-fileserver/blob/master/README.md)
+* [Identity Server](https://github.com/Festivals-App/festivals-identity-server/blob/master/README.md)
 
 Along with the application-level components, the following system and technology-specific elements should also be taken into account:
 
