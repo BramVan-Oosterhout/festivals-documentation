@@ -61,7 +61,7 @@ Following the high level architecture overview, shown in Figure 1: Architecture 
 
 * Mobile App (not in scope for the backend infrastructure)
 * Creator Tool (not in scope for the backend infrastructure)
-* Gateway
+* [Gateway](https://github.com/Festivals-App/festivals-gateway/README.md)
 * FestivalsApp Server
 * Database
 * File Server
